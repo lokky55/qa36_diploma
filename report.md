@@ -29,7 +29,7 @@
 ## Общие рекомендации
 
 * Необходимо исправить найденные баги в приложении.
-[issues](https://github.com/lokky55/qa36_diploma/issues)
+Все баги описаны по ссылке: [issues](https://github.com/lokky55/qa36_diploma/issues)
 
 Так же можно ознакомиться с отчётами:
 * Gradle: `./build/reports/tests/test/index.html`
