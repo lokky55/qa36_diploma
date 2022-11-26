@@ -24,13 +24,15 @@
 * 35 успешных – что составляет 76 % от общего числа тест-кейсов
 * 11 не успешных – что составляет 24 % от общего числа тест-кейсов
 
+## Отчет Allure
+* Allure: в терминале ввести команду `./gradlew allureServe`
 <image src="/Documents/Allure_report.png" alt="Allure_report.png">
+
+## Отчет Gradle
+* Gradle: `./build/reports/tests/test/index.html`
+<image src="/Documents/gradle_report.png" alt="gradle_report.png">
 
 ## Общие рекомендации
 
 * Необходимо исправить найденные баги в приложении.
 Все баги описаны по ссылке: [issues](https://github.com/lokky55/qa36_diploma/issues)
-
-Так же можно ознакомиться с отчётами:
-* Gradle: `./build/reports/tests/test/index.html`
-* Allure: в терминале ввести команду `./gradlew allureServe`
