@@ -24,7 +24,7 @@
 * 35 успешных – что составляет 76 % от общего числа тест-кейсов
 * 11 не успешных – что составляет 24 % от общего числа тест-кейсов
 
-<image src="/Allure/Allure_report.png" alt="Allure_report.png">
+<image src="/Documents/Allure_report.png" alt="Allure_report.png">
 
 ## Общие рекомендации
 
